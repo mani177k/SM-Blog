@@ -1,0 +1,7 @@
+{
+  "name": "Sundaram Mutual Insights | 3D Journey Editorial",
+  "description": "A premium scroll-driven editorial financial journal by Sundaram Mutual featuring an interactive 3D storytelling football journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
